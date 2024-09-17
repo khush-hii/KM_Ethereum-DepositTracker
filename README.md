@@ -1,4 +1,4 @@
-# Ethereum Deposit Tracker 21BKT0060 KHUSHI MITTAL
+# Ethereum Deposit Tracker 
 
 ## ETH Deposit Tracker - Java-based Application
 The ETH Deposit Tracker is a Java-based application that monitors Ethereum deposits on the blockchain. It tracks deposit transactions, stores them in a MongoDB database, and sends notifications via Telegram when new deposits are detected.
